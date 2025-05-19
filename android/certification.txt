@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the Gastos 1.0
+---------------------------------------------------
+
+app_name - 						Gastos
+app_alias - 					gastos
+app_author_name - 				AdielLara
+app_author_organizational - 	adiellara
+app_author_organization - 		adiellara
+app_author_locality - 			adiellara
+app_author_state - 				San Salvador
+app_author_country - 			El Salvador
+app_password - 					pr5T1HjWiEZm
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+The certification was created by Adiellara at
+the Monday 19th of May 2025 02:08:02 AM
+
+
+---------------------------------------------------
+
